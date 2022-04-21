@@ -1,5 +1,9 @@
 <div align="center">
   
+  ### Developer.
+  
+  <img src="https://github.com/qkrdmstlr3/qkrdmstlr3/blob/main/images/fe.png" width="180" />
+  
   ### Info.
   
   [Blog](https://shellboylog.com) | [Resume](https://slash-letter-bfe.notion.site/8bd2dad461674db2b7bff767bcfde970) | [Portfolio](https://portfolio-livid-rho.vercel.app)
