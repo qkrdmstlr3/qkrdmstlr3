@@ -6,7 +6,7 @@
   
   ### Info.
   
-  [Blog](https://shellboylog.com) | [Resume](https://slash-letter-bfe.notion.site/8bd2dad461674db2b7bff767bcfde970) | [Portfolio](https://portfolio-livid-rho.vercel.app)
+  [Resume](https://slash-letter-bfe.notion.site/8bd2dad461674db2b7bff767bcfde970) | [Portfolio](https://portfolio-livid-rho.vercel.app)
   
   ### Techs.
   
