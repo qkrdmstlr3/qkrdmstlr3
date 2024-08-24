@@ -1,10 +1,6 @@
 <div align="center">
   
-  ### Developer.
-  
-  <img src="https://github.com/qkrdmstlr3/qkrdmstlr3/blob/main/images/fe.png" width="100" />
-  
-  ### Now.
+### Now.
 
 **"The Toss Interaction Team:"**<br />
 Systematizes interactions.<br />
