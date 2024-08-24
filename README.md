@@ -6,7 +6,7 @@
 Systematizes interactions.<br />
 Contributes to the design system.<br />
 Collaborates with the service team to apply interactions to products.<br />
-Improves the workflow of designers and developers."<br />
+Improves the workflow of designers and developers.<br />
 
 <br />
   
