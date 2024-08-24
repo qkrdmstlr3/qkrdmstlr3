@@ -2,11 +2,17 @@
   
   ### Developer.
   
-  <img src="https://github.com/qkrdmstlr3/qkrdmstlr3/blob/main/images/fe.png" width="180" />
+  <img src="https://github.com/qkrdmstlr3/qkrdmstlr3/blob/main/images/fe.png" width="100" />
   
-  ### Info.
+  ### Now.
 
-  [www.shellboy.kr](https://www.shellboy.kr)
+**"The Toss Interaction Team:"**<br />
+Systematizes interactions.<br />
+Contributes to the design system.<br />
+Collaborates with the service team to apply interactions to products.<br />
+Improves the workflow of designers and developers."<br />
+
+<br />
   
   ### Techs.
   
@@ -18,6 +24,6 @@
   
   ### Trophy.
   
-  <img src="https://github-profile-trophy.vercel.app/?username=qkrdmstlr3&theme=gruvbox&title=Stars,Followers,Commits,PullRequest,Issues,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=qkrdmstlr3&theme=gruvbox&title=Stars,Followers,PullRequest,Issues" />
 </div>
 
