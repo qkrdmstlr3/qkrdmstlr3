@@ -2,12 +2,7 @@
   
 ### Now.
 
-**"The Toss Interaction Team:"**<br />
-Systematizes interactions.<br />
-Contributes to the design system.<br />
-Collaborates with the service team to apply interactions to products.<br />
-Improves the workflow of designers and developers.<br />
-
+**"Toss VisualExcellence Team:"**<br />
 <br />
   
   ### Techs.
@@ -17,9 +12,3 @@ Improves the workflow of designers and developers.<br />
 </div>
 
 <div align="center">
-  
-  ### Trophy.
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=qkrdmstlr3&theme=gruvbox&title=Stars,Followers,PullRequest,Issues" />
-</div>
-
